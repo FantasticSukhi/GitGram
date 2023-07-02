@@ -1,6 +1,6 @@
 # ɢɪᴛɢʀᴀᴍ
 
-<p align="center"><a href="https://t.me/Tricky_Deepanshu"><img src="https://telegra.ph/file/04955bd5888a89dced11a.jpg"></a></p>
+<p align="center"><a href="https://t.me/TELE_WALI_FRIENDSHIP"><img src="https://telegra.ph/file/04955bd5888a89dced11a.jpg"></a></p>
 
  A Telegram Bot to notify you about your Github Repository Events
 
@@ -8,7 +8,7 @@
 
 The easiest way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot more stable).
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/STD-DEEPANSHU/GitGram"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/FantasticSukhi/GitGram"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 
 <h4> Fill all the required variables on heroku, after that follow the steps - </h4>
 
@@ -24,7 +24,7 @@ The easiest way to host this bot, deploy to Heroku, Change the app country to Eu
 
 ## ᴇxᴀᴍᴩʟᴇ ᴏғ ᴀɴ ᴡᴇʙʜᴏᴏᴋ 👇🏻:
 
-<p align="center"><a href="https://t.me/Tricky_Deepanshu"><img src="https://telegra.ph/file/c694e61f7faa468ee136d.jpg"></a></p>
+<p align="center"><a href="https://t.me/TELE_WALI_FRIENDSHIP"><img src="https://telegra.ph/file/c694e61f7faa468ee136d.jpg"></a></p>
 
 # ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴩs:
 - Install all requirements, `pip3 install -r requirements.txt`
@@ -35,25 +35,25 @@ The easiest way to host this bot, deploy to Heroku, Change the app country to Eu
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ɢɪᴛᴩᴏᴅ 🚀:
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/STD-DEEPANSHU/GitGram)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/FantasticSukhi/GitGram)
 
 
 ## ᴛʀʏ ᴏɴ ɢɪᴛᴩᴏᴅ:
 1. [Login to Gitpod](https://gitpod.io/login).
-2. [Open this in Gitpod](https://gitpod.io/#github.com/STD-DEEPANSHU/GitGram).
+2. [Open this in Gitpod](https://gitpod.io/#github.com/FantasticSukhi/GitGram).
 3. After workspace build, dependencies will be installed.
 4. Follow step 2 and 3 in Setup section.
 
 
 ## ᴄʀᴇᴅɪᴛs 💖
-- [Ɗᴇᴇᴘᴀɴꜱʜᴜ](https://github.com/STD-DEEPANSHU) for [Nothing](https://github.com/STD-DEEPANSHU/GitGram)
-- [Pokurt](https://github.com/pokurt) for [GitGram](https://github.com/pokurt/GitGram)
+- [Mamba](https://github.com/FantasticSukhi) for [Nothing](https://github.com/FantasticSukhi/GitGram)
+- [Name](https://github.com/Username) for [Name](https://github.com/Username/ProjectName)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## sᴜᴩᴩᴏʀᴛ 🎑
-<a href="https://t.me/Tricky_Deepanshu"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/STD_DEEPANSHU"><img src="https://img.shields.io/badge/%20Deepanshu-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/TELE_WALI_FRIENDSHIP"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/THE_THIRD_EYE_NETWORK"><img src="https://img.shields.io/badge/%20Network-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
 -------------------------------------------------
