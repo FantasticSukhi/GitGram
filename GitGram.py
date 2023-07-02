@@ -21,7 +21,7 @@ if ENV:
     PROJECT_NAME = environ.get('PROJECT_NAME', None)
     ip_addr = environ.get('APP_URL', None)
     # If you kanged our project without forking it, we'll get you DMCA'd.
-    GIT_REPO_URL = environ.get('GIT_REPO_URL', "https://github.com/STD-DEEPANSHU/GitGram")
+    GIT_REPO_URL = environ.get('GIT_REPO_URL', "https://github.com/FantasticSukhi/GitGram")
 else:
     BOT_TOKEN = config.BOT_TOKEN
     PROJECT_NAME = config.PROJECT_NAME
@@ -31,14 +31,14 @@ else:
 updater = Updater(token=BOT_TOKEN, workers=1)
 dispatcher = updater.dispatcher
 
-print("If you need more help from Me, Join @Tricky_Deepanshu in Telegram.")
+print("If you need more help from Me, Join @TELE_WALI_FRIENDSHIP in Telegram.")
 
 
 def start(_bot, update):
     """/start message for bot"""
     message = update.effective_message
     message.reply_text(
-        f"ᴛʜɪs ɪs ᴛʜᴇ ᴇᴠᴇɴᴛs ᴡᴀᴛᴄʜᴇʀ ʙᴏᴛ ꜰᴏʀ {PROJECT_NAME}. ɪ ᴊᴜsᴛ ɴᴏᴛɪꜰʏ ᴏᴡɴᴇʀs ᴀʙᴏᴜᴛ ᴡʜᴀᴛ ɪs ʜᴀᴘᴘᴇɴɪɴɢ ᴏɴ ᴛʜᴇɪʀ ɢɪᴛʜᴜʙ ʀᴇᴘᴏsɪᴛᴏʀɪᴇs ᴛʜʀᴏᴜɢʜ ᴡᴇʙʜᴏᴏᴋs.\n\nɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ [ᴅᴇᴘʟᴏʏ](https://github.com/STD-DEEPANSHU/GitGram) ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ ᴏʀ ᴜsᴇ /help ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ​ ᴜsᴇ ᴛʜɪs ʙᴏᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘs​.",
+        f"ᴛʜɪs ɪs ᴛʜᴇ ᴇᴠᴇɴᴛs ᴡᴀᴛᴄʜᴇʀ ʙᴏᴛ ꜰᴏʀ {PROJECT_NAME}. ɪ ᴊᴜsᴛ ɴᴏᴛɪꜰʏ ᴏᴡɴᴇʀs ᴀʙᴏᴜᴛ ᴡʜᴀᴛ ɪs ʜᴀᴘᴘᴇɴɪɴɢ ᴏɴ ᴛʜᴇɪʀ ɢɪᴛʜᴜʙ ʀᴇᴘᴏsɪᴛᴏʀɪᴇs ᴛʜʀᴏᴜɢʜ ᴡᴇʙʜᴏᴏᴋs.\n\nɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ [ᴅᴇᴘʟᴏʏ](https://github.com/FantasticSukhi/GitGram) ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ ᴏʀ ᴜsᴇ /help ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ​ ᴜsᴇ ᴛʜɪs ʙᴏᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘs​.",
         parse_mode="markdown")
 
 
@@ -55,7 +55,7 @@ def support(_bot, update):
     """Links to Support"""
     message = update.effective_message
     message.reply_text(
-        f"*ɢᴇᴛᴛɪɴɢ sᴜᴘᴘᴏʀᴛ*\n\nꜰᴏʀ ɢᴇᴛᴛɪɴɢ ʜᴇʟᴘ ɪɴ ᴜsɪɴɢ ᴍᴇ, ᴊᴏɪɴ [Deepanshu Support](https://t.me/Tricky_Deepanshu).",
+        f"*ɢᴇᴛᴛɪɴɢ sᴜᴘᴘᴏʀᴛ*\n\nꜰᴏʀ ɢᴇᴛᴛɪɴɢ ʜᴇʟᴘ ɪɴ ᴜsɪɴɢ ᴍᴇ, ᴊᴏɪɴ [Support](https://t.me/TELE_WALI_FRIENDSHIP).",
         disable_web_page_preview=True,
         parse_mode="markdown"
     )
@@ -65,7 +65,7 @@ def source(_bot, update):
     """Link to Source"""
     message = update.effective_message
     message.reply_text(
-        f"*sᴏᴜʀᴄᴇ​*:\n[ɢɪᴛɢʀᴀᴍ ʀᴇᴘᴏ​](https://github.com/STD-DEEPANSHU/GitGram).",
+        f"*sᴏᴜʀᴄᴇ​*:\n[ɢɪᴛɢʀᴀᴍ ʀᴇᴘᴏ​](https://github.com/FantasticSukhi/GitGram).",
         disable_web_page_preview=True,
         parse_mode="markdown"
     )
