@@ -3,12 +3,12 @@
     "description": "GitHub and GitLab Integration for Telegram Bot API",
     "logo": "",
     "keywords": [
-        "telegram",
-        "github"
+    "telegram",
+    "github"
     ],
-    "repository": "https://github.com/STD-DEEPANSHU/GitGram",
-    "website": "https://github.com/STD-DEEPANSHU/GitGram",
-    "success_url": "https://t.me/Tricky_Deepanshu",
+    "repository": "https://github.com/FantasticSukhi/GitGram",
+    "website": "https://github.com/FantasticSukhi/GitGram",
+    "success_url": "https://t.me/TELE_WALI_FRIENDSHIP",
     "stack": "container",
     "env": {
         "ENV": {
