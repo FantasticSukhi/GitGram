@@ -46,7 +46,7 @@ The easiest way to host this bot, deploy to Heroku, Change the app country to Eu
 
 
 ## ᴄʀᴇᴅɪᴛs 💖
-- [Mamba](https://github.com/FantasticSukhi) for [Nothing](https://github.com/FantasticSukhi/GitGram)
+- [Mamba](https://github.com/FantasticSukhi) for [Developing](https://github.com/FantasticSukhi/GitGram)
 - [Name](https://github.com/Username) for [Name](https://github.com/Username/ProjectName)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
